@@ -1,1 +1,3 @@
 # CNN_Analysis
+
+These Jupyter notebooks implement neural network architectures (LeNet, ResNet, and VGG16) with various datasets (CIFAR-10, Fashion-MNIST, and MNIST). Each notebook contains 7 code cells and begins by importing essential libraries like PyTorch and torchvision. The datasets are preprocessed using transformations such as resizing to match the input requirements of the respective networks, normalization, and in some cases, converting grayscale images to three-channel formats. These notebooks prepare the datasets and network structures, demonstrating a structured workflow for training and testing models on these datasets using appropriate preprocessing techniques and deep learning architectures.
